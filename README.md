@@ -1,6 +1,6 @@
 
 
-## Demo for 2spotA data
+## Sample Output
 
 Example of estimated projection images at iteration 0, 60, 120, 180
 
